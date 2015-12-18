@@ -1,0 +1,9 @@
+{
+    "project": "minishop",
+    "port": "86:80",
+    "db": {
+        "type": "mysql",
+        "name": "minishop",
+        "pass": "LocalPasswordSecurityNotImportant"
+    }
+}
